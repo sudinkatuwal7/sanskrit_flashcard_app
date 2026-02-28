@@ -27,8 +27,10 @@ A desktop flashcard application built with **Python + Tkinter** to help users le
 
 ## 🖼 Application Preview
 
-> 📌 Add your screenshots inside a folder named `screenshots/`
 
+>![img.png](img.png)
+
+>![img_1.png](img_1.png)
 ---
 
 ## 🛠 Technologies Used
