@@ -96,8 +96,10 @@ python main.py
 
 Created as part of a Python learning project.
 
-<h2 align="center">कथा अनन्ता…</h2>
+<h3 align="center">कथा अनन्ता…</h3>
+
 <h3 align="center">अग्रे प्रकाशः भविष्यति</h3>
+
 <p align="center"><i>The story is infinite… Light awaits ahead.</i></p>
 
 
