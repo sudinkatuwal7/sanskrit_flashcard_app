@@ -28,9 +28,10 @@ A desktop flashcard application built with **Python + Tkinter** to help users le
 ## 🖼 Application Preview
 
 
->![img.png](img.png)
+<img width="1361" height="1144" alt="Screenshot (374)" src="https://github.com/user-attachments/assets/1ffa0ee6-7e78-430c-ad35-9316af544722" />
 
->![img_1.png](img_1.png)
+<img width="1366" height="1153" alt="Screenshot (375)" src="https://github.com/user-attachments/assets/6fa13267-eeff-470d-9b13-5fa04513df3b" />
+
 ---
 
 ## 🛠 Technologies Used
